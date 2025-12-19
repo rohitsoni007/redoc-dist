@@ -1,6 +1,10 @@
 # Changelog
 
-## 0.0.1 (2025-12-19)
+## 2.5.3 (2025-12-19)
+
+- Made typescript dev dependency
+
+## 2.5.2 (2025-12-19)
 
 - Initial release of redoc-dist
 - Includes redoc v2.5.2 bundles
