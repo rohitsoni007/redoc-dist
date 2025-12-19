@@ -1,6 +1,6 @@
 {
   "name": "redoc-dist",
-  "version": "2.5.3",
+  "version": "2.5.4",
   "description": "A self-contained distribution of Redoc for offline API documentation",
   "license": "MIT",
   "author": "Rohit Soni",
@@ -29,8 +29,9 @@
     "redoc.browser.lib.js.map",
     "redoc.*.LICENSE.txt",
     "getAssetPath.js",
+    "getAssetPath.d.ts",
     "index.js",
-    "index.html"
+    "index.d.ts"
   ],
   "scripts": {
     "build": "node scripts/build.js",

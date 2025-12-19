@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.5.4 (2025-12-19)
+
+- remove html from files in npm
+
 ## 2.5.3 (2025-12-19)
 
 - Made typescript dev dependency
