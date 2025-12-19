@@ -1,6 +1,6 @@
 {
   "name": "redoc-dist",
-  "version": "0.0.1",
+  "version": "2.5.2",
   "description": "A self-contained distribution of Redoc for offline API documentation",
   "license": "MIT",
   "author": "Rohit Soni",
@@ -8,6 +8,16 @@
     "type": "git",
     "url": "git://github.com/rohitsoni007/redoc-dist.git"
   },
+  "keywords": [
+    "redoc",
+    "api",
+    "documentation",
+    "offline"
+  ],
+  "bugs": {
+    "url": "https://github.com/rohitsoni007/redoc-dist/issues"
+  },
+  "homepage": "https://github.com/rohitsoni007/redoc-dist#readme",
   "main": "index.js",
   "types": "index.d.ts",
   "files": [
@@ -29,6 +39,7 @@
     "build:types": "tsc --emitDeclarationOnly"
   },
   "dependencies": {
+    "redoc": "^2.5.2",
     "typescript": "^5.9.3"
   }
 }
