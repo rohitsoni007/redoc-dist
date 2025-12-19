@@ -1,5 +1,10 @@
 # Changelog
 
+
+## 2.5.5 (2025-12-19)
+
+- move dependency to dev dependency
+
 ## 2.5.4 (2025-12-19)
 
 - remove html from files in npm

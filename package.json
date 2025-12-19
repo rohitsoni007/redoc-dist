@@ -1,6 +1,6 @@
 {
   "name": "redoc-dist",
-  "version": "2.5.4",
+  "version": "2.5.5",
   "description": "A self-contained distribution of Redoc for offline API documentation",
   "license": "MIT",
   "author": "Rohit Soni",
@@ -39,10 +39,8 @@
     "prepublishOnly": "npm run build",
     "build:types": "tsc --emitDeclarationOnly"
   },
-  "dependencies": {
-    "redoc": "^2.5.2"
-  },
   "devDependencies": {
+    "redoc": "^2.5.2",
     "typescript": "^5.9.3"
   }
 }
